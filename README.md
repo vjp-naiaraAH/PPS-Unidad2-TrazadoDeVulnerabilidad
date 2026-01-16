@@ -1,7 +1,5 @@
 # Trazado de Vulnerabilidad: CVE-2024-0204 en GoAnywhere MFT (Fortra)
 
-![Licencia CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
-
 **Actividad de la Unidad 2 – Puesta en Producción Segura**  
 **Título de la actividad**: Trazado de una vulnerabilidad  
 **Resultado de aprendizaje**: RA2 d – Conocer listas de amenazas y trazar vulnerabilidades en fuentes abiertas
@@ -57,13 +55,3 @@ INCIBE → Fabricante (Fortra) → CVE.org → NVD → CWE → CAPEC → Registr
 - Detalle NVD: https://nvd.nist.gov/vuln/detail/CVE-2024-0204  
 - CWE-425: https://cwe.mitre.org/data/definitions/425.html  
 - CAPEC-143 (principal relacionado): https://capec.mitre.org/data/definitions/143.html  
-
-## Notas Adicionales
-
-- **Fecha de realización**: Enero 2026 (basado en conocimiento actualizado).  
-- **Autor**: Naiara (estudiante de Puesta en Producción Segura).  
-- **Licencia**: CC BY-NC-SA 4.0 – Puedes compartir y adaptar con atribución, uso no comercial y misma licencia.  
-
-Este trabajo demuestra la interconexión de las fuentes abiertas de ciberseguridad y cómo trazar una vulnerabilidad de principio a fin.
-
-¡Gracias por revisar! Si es para la tarea de la Unidad 2, espero que te sirva de 10. 🚀
